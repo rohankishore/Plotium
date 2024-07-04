@@ -1,3 +1,6 @@
+
+sec_name = "Actinides"
+
 electronegativity = {
     "Actinium (Ac)": 1.1,
     "Thorium (Th)": 1.3,
@@ -49,7 +52,7 @@ density = {
     "Cf": 15.1,
     "Es": None,
     "Fm": None,
-    "Md": None,      # Density data not available for these elements
+    "Md": None,  # Density data not available for these elements
     "No": None,
     "Lr": None
 }
@@ -71,4 +74,15 @@ melting_point = {
     "Md": 1100,
     "No": 1100,
     "Lr": 1900
+}
+
+# in K
+boiling_point = {
+    "Ac": 3473,
+    "Th": 5058,
+    "Pa": 4273,
+    "U": 4404,
+    "Np": 4175,
+    "Pu": 3501,
+    "Am": 2284,
 }
