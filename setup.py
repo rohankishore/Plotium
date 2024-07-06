@@ -10,7 +10,7 @@ classifiers = [
 
 setup(
     name='Plotium',
-    version='1.1.0',
+    version='1.2.0',
     description='Python Library to plot and visualize chemical trends',
     long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.txt').read(),
     url='https://github.com/rohankishore/Plotium',
