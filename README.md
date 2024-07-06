@@ -6,11 +6,15 @@ Plotium is a Python library designed for easy data visualization and analysis of
 
 <br>
 
+# Table of Contents
+
 - [📊 What can Plotium do?](#-what-can-plotium-do)
 - [⬇️ Installation](#-installation)
 - [🪴 Example Snippets](#-example-snippets)
    * [Example 1](#example-1)
    * [Example 2](#example-2)
+ 
+<br>
 
 ## 📊 What can Plotium do?
 Plotium provides graph plots of chemical trends of specific Groups, Types, Blocks, Periods, etc. You can view the graph in a window or attach it to a GUI using PyQt/PySide libraries.
