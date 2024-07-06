@@ -13,6 +13,7 @@ Plotium is a Python library designed for easy data visualization and analysis of
 - [🪴 Example Snippets](#-example-snippets)
    * [Example 1](#example-1)
    * [Example 2](#example-2)
+- [🧩 Add Plots to GUI](#-add-plots-to-gui)
  
 <br>
 
@@ -56,4 +57,8 @@ tp.show()
 ```
 ![Figure_1](https://github.com/rohankishore/Plotium/assets/109947257/15f973f6-5b5a-49c3-a6e9-2bcf6fb2a4e9)
 
+<br>
 
+# 🧩 Add Plots to GUI
+
+You can add these plots to a PyQtX/PySideX window. Coming Soon
