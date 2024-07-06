@@ -1,88 +1,86 @@
 
-sec_name = "Actinides"
+sec_name = "S Block Elements"
 
 electronegativity = {
-    "Actinium (Ac)": 1.1,
-    "Thorium (Th)": 1.3,
-    "Protactinium (Pa)": 1.5,
-    "Uranium (U)": 1.38,
-    "Neptunium (Np)": 1.36,
-    "Plutonium (Pu)": 1.28,
-    "Americium (Am)": 1.3,
-    "Curium (Cm)": 1.3,
-    "Berkelium (Bk)": 1.3,
-    "Californium (Cf)": 1.3,
-    "Einsteinium (Es)": 1.3,
-    "Fermium (Fm)": 1.3,
-    "Mendelevium (Md)": 1.3,
-    "Nobelium (No)": 1.3,
-    "Lawrencium (Lr)": 1.3
+    "Hydrogen (H)": 2.20,
+    "Lithium (Li)": 0.98,
+    "Sodium (Na)": 0.93,
+    "Potassium (K)": 0.82,
+    "Rubidium (Rb)": 0.82,
+    "Cesium (Cs)": 0.79,
+    "Francium (Fr)": 0.7,
+    "Beryllium (Be)": 1.57,
+    "Magnesium (Mg)": 1.31,
+    "Calcium (Ca)": 1.00,
+    "Strontium (Sr)": 0.95,
+    "Barium (Ba)": 0.89,
+    "Radium (Ra)": 0.9
 }
 
 # atomic radii in Angstroms
 atomic_radii = {
-    "Ac": 2.43,
-    "Th": 2.45,
-    "Pa": 2.43,
-    "U": 2.41,
-    "Np": 2.39,
-    "Pu": 2.43,
-    "Am": 2.44,
-    "Cm": 2.45,
-    "Bk": 2.44,
-    "Cf": 2.45,
-    "Es": 2.45,
-    "Fm": 2.45,
-    "Md": 2.46,
-    "No": 2.46,
-    "Lr": 2.46
+    "Hydrogen (H)": 0.53,
+    "Lithium (Li)": 1.67,
+    "Sodium (Na)": 1.90,
+    "Potassium (K)": 2.43,
+    "Rubidium (Rb)": 2.65,
+    "Cesium (Cs)": 2.98,
+    "Francium (Fr)": 3.42,
+    "Beryllium (Be)": 1.53,
+    "Magnesium (Mg)": 1.73,
+    "Calcium (Ca)": 2.31,
+    "Strontium (Sr)": 2.49,
+    "Barium (Ba)": 2.68,
+    "Radium (Ra)": 2.83
 }
 
 # density in g/cm^3
 density = {
-    "Ac": 10,
-    "Th": 11.7,
-    "Pa": 15.4,
-    "U": 19.1,
-    "Np": 20.2,
-    "Pu": 19.7,
-    "Am": 12,
-    "Cm": 13.51,
-    "Bk": 14.78,
-    "Cf": 15.1,
-    "Es": None,
-    "Fm": None,
-    "Md": None,  # Density data not available for these elements
-    "No": None,
-    "Lr": None
+    "Hydrogen (H)": 0.00008988,
+    "Lithium (Li)": 0.534,
+    "Sodium (Na)": 0.971,
+    "Potassium (K)": 0.862,
+    "Rubidium (Rb)": 1.532,
+    "Cesium (Cs)": 1.873,
+    "Francium (Fr)": 2.48,  # Estimated value
+    "Beryllium (Be)": 1.85,
+    "Magnesium (Mg)": 1.74,
+    "Calcium (Ca)": 1.54,
+    "Strontium (Sr)": 2.64,
+    "Barium (Ba)": 3.62,
+    "Radium (Ra)": 5
 }
 
 # in Kelvin
 melting_point = {
-    "Ac": 1323,
-    "Th": 2023,
-    "Pa": 1845,
-    "U": 1408,
-    "Np": 917,
-    "Pu": 913,
-    "Am": 1449,
-    "Cm": 1618,
-    "Bk": 1259,
-    "Cf": 1173,
-    "Es": 1133,
-    "Fm": 1800,
-    "Md": 1100,
-    "No": 1100,
-    "Lr": 1900
+    "Hydrogen (H)": 14.01,
+    "Lithium (Li)": 453.69,
+    "Sodium (Na)": 370.87,
+    "Potassium (K)": 336.53,
+    "Rubidium (Rb)": 312.46,
+    "Cesium (Cs)": 301.59,
+    "Francium (Fr)": 300,  # Estimated value
+    "Beryllium (Be)": 1560,
+    "Magnesium (Mg)": 923,
+    "Calcium (Ca)": 1115,
+    "Strontium (Sr)": 1050,
+    "Barium (Ba)": 1000,
+    "Radium (Ra)": 969
 }
 
 # in K
 boiling_point = {
-    "Ac": 3473,
-    "Th": 5058,
-    "Pa": 4273,
-    "U": 4404,
-    "Np": 4175,
-    "Pu": 3501,
-    "Am": 2284,
+    "Hydrogen (H)": 20.28,
+    "Lithium (Li)": 1615,
+    "Sodium (Na)": 1156,
+    "Potassium (K)": 1032,
+    "Rubidium (Rb)": 961,
+    "Cesium (Cs)": 944,
+    "Francium (Fr)": 950,  # Estimated value
+    "Beryllium (Be)": 2741,
+    "Magnesium (Mg)": 1363,
+    "Calcium (Ca)": 1757,
+    "Strontium (Sr)": 1650,
+    "Barium (Ba)": 2118,
+    "Radium (Ra)": 1737
 }
