@@ -13,12 +13,12 @@ Plotium is a Python library designed for easy data visualization and analysis of
 - [🪴 Example Snippets](#-example-snippets)
    * [Example 1](#example-1)
    * [Example 2](#example-2)
-- [🧩 Add Plots to GUI](#-add-plots-to-gui)
+- [🧩 Credits](#-credits)
  
 <br>
 
 ## 📊 What can Plotium do?
-Plotium provides graph plots of chemical trends of specific Groups, Types, Blocks, Periods, etc. You can view the graph in a window or attach it to a GUI using PyQt/PySide libraries.
+Plotium provides graph plots of chemical trends of specific Groups, Types, Blocks, Periods, etc. You can view the graph in a window.
 
 <br>
 
@@ -59,6 +59,8 @@ tp.show()
 
 <br>
 
-# 🧩 Add Plots to GUI
+# 🧩 Credits
 
-You can add these plots to a PyQtX/PySideX window. Coming Soon
+The infos used in this project are from:
+- [Periodic Trends - Chemistry Libre](https://chem.libretexts.org/Bookshelves/Inorganic_Chemistry/Supplemental_Modules_and_Websites_(Inorganic_Chemistry)/Descriptive_Chemistry/Periodic_Trends_of_Elemental_Properties/Periodic_Trends)
+- [Britannica](https://www.britannica.com/)
