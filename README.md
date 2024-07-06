@@ -1,8 +1,23 @@
 <div align="center">
 
 ![banner!](https://github.com/rohankishore/Plotium/assets/109947257/f6593c70-96f0-457a-9bb1-3a91e1068849)
-Plotium is a Python library designed for easy data visualization and analysis of chemical trends like Atomic Radii, Electronegativity, etc
+
 </div>
+
+Plotium is a Python library designed for easy data visualization and analysis of chemical trends like Atomic Radii, Electronegativity, etc. Right now, ***Plotium can plot trends of***:
+1. Electronegativity
+2. Density
+3. Atomic Radii
+4. Melting Point
+5. Boiling Point
+
+***Divided into:***
+1. Block Wise (S,P,D,F)
+2. Types (Actinoids, Lanthanoids, etc)
+3. Groups (1 - 18)
+
+I look forward to adding more types of classifications (Periods, Diagonal Relationship, etc) and also even more properties like Ionisation Enthalpy, Magnetic strength etc
+
 
 <br>
 
